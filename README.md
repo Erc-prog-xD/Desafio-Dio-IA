@@ -48,4 +48,57 @@ O **Microsoft Azure** oferece serviços de IA que permitem criar, treinar e impl
 - **Automação inteligente:** Aplicações que aumentam eficiência sem substituir completamente o trabalho humano.  
 - **Monitoramento e manutenção:** Modelos de IA precisam ser continuamente avaliados e atualizados para manter precisão e relevância.
 
+# Fundamentos de Inteligência Artificial e Aprendizado de Máquina
+
+## Fundamentos de Inteligência Artificial (IA)
+
+A **Inteligência Artificial (IA)** é o campo da ciência da computação que busca criar sistemas capazes de realizar tarefas que normalmente requerem inteligência humana.  
+Os fundamentos principais incluem:
+
+- **Percepção:** Capacidade de interpretar dados do mundo real, como imagens, sons e sinais.  
+- **Raciocínio e tomada de decisão:** Capacidade de analisar informações, identificar padrões e tomar decisões.  
+- **Aprendizado:** Habilidade de melhorar o desempenho a partir de experiência e dados.  
+- **Processamento de Linguagem Natural (NLP):** Entendimento e geração de linguagem humana.  
+- **Planejamento e Automação:** Execução de tarefas complexas de forma autônoma ou assistida.
+
+---
+
+## Aprendizado de Máquina (Machine Learning - ML)
+
+O **Aprendizado de Máquina** é uma subárea da IA que permite que sistemas aprendam padrões a partir de dados e realizem previsões ou decisões sem serem explicitamente programados para isso.
+
+### Tipos de Aprendizado de Máquina
+
+1. **Aprendizado Supervisionado**
+   - O modelo é treinado com **dados rotulados** (entrada + saída esperada).  
+   - Objetivo: prever resultados para novos dados.  
+   - Exemplos: classificação de emails como spam ou não spam, previsão de preços de imóveis.
+
+2. **Aprendizado Não Supervisionado**
+   - O modelo trabalha com **dados não rotulados** e busca padrões ou estruturas escondidas.  
+   - Exemplos: agrupamento (clustering) de clientes, detecção de anomalias.
+
+3. **Aprendizado por Reforço**
+   - O agente aprende tomando **ações em um ambiente** e recebendo recompensas ou penalidades.  
+   - Objetivo: maximizar recompensas ao longo do tempo.  
+   - Exemplos: jogos (xadrez, Go), robótica, sistemas de recomendação.
+
+### Etapas do Aprendizado de Máquina
+
+1. **Coleta de dados:** Obter informações relevantes e confiáveis.  
+2. **Pré-processamento:** Limpeza, normalização e transformação dos dados.  
+3. **Treinamento do modelo:** O modelo aprende padrões a partir dos dados.  
+4. **Avaliação:** Testar o modelo com dados não vistos para medir desempenho.  
+5. **Implantação:** Implementar o modelo em aplicações reais.  
+6. **Monitoramento e manutenção:** Ajustes contínuos para manter precisão e relevância.
+
+### Conceitos Importantes
+
+- **Features (atributos):** Variáveis de entrada utilizadas pelo modelo.  
+- **Labels (rótulos):** Resultados esperados no aprendizado supervisionado.  
+- **Overfitting:** Quando o modelo se ajusta demais aos dados de treinamento e não generaliza bem.  
+- **Underfitting:** Quando o modelo é muito simples e não consegue capturar padrões importantes.  
+- **Métricas de desempenho:** Precisão, recall, F1-score, RMSE, dependendo do tipo de problema.
+
+---
 
